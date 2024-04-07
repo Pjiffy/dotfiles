@@ -12,4 +12,4 @@ Everything in this section includes my main desktop config files, more to come i
 - As of right now everything in the config is fairly close to default with a few changes.
 
 ### Terminal
-![Alacritty](https://alacritty.org/) customised with ![Synth-Shell](https://github.com/andresgongora/synth-shell)
+![Alacritty](alacritty.toml) customised with ![Synth-Shell](https://github.com/andresgongora/synth-shell)
